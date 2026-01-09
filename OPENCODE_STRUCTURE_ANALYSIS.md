@@ -41,7 +41,7 @@ StudioCMS/
 | **Mongoose** | ^7.0.3 | MongoDB ODM |
 | **JWT** | ^9.0.0 | 身份认证 |
 | **bcryptjs** | ^2.4.3 | 密码加密 |
-| **Multer** | ^2.0.0 | 文件上传 |
+| **Multer** | ^2.0.2 | 文件上传 |
 | **Helmet** | ^8.1.0 | 安全防护 |
 | **CORS** | ^2.8.5 | 跨域支持 |
 | **Morgan** | ^1.10.0 | HTTP 日志 |
